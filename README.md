@@ -2,9 +2,9 @@
 This repository contains the source code for the thesis submitted in part requirement for the MSc Computational Statistics and Machine Learning at University College London.
 
 
-### 🐳 Installation using Docker 
+### 🐳  Installation using Docker 
 
-📍The following steps should be conducted on your terminal and make sure you have already installed Docker on your machine
+📍 The following steps should be conducted on your terminal and make sure you have already installed Docker on your machine
 
 1. `git clone` this repository to your local machine 🖥
 2. `cd` to the cloned repository 
